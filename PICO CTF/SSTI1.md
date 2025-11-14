@@ -2,7 +2,7 @@
 
 <img width="923" height="794" alt="image" src="https://github.com/user-attachments/assets/92053162-1965-491b-8710-b4422dd82dd9" />
 
-#Solution
+## Solution
 
 We start a challenge instance and see a small website.
 The challenge hints that the site may be vulnerable to SSTI (Server-Side Template Injection).
