@@ -1,6 +1,6 @@
 #Problem
 
-<img width="1914" height="923" alt="image" src="https://github.com/user-attachments/assets/9f25338e-d896-4bce-a20b-464a89525daa" />
+<img width="923" height="794" alt="image" src="https://github.com/user-attachments/assets/92053162-1965-491b-8710-b4422dd82dd9" />
 
 #Solution
 
